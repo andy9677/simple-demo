@@ -1,2 +1,2 @@
-# simple-demo
-This is a simple training repo
+# Simple Repository
+This is a training read me file.
